@@ -1,0 +1,4 @@
+@import url("style.vars.css");
+body {
+  color: var(--text-color);
+}
